@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h2{
+font-size: 40px;
+
+}
+h1{
+    font-size: 50px;
+}
+.name{
+
+    color: palevioletred;
+}
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+
+}
+.half-width img{
+
+    width: 50%;
+}
+section{
+    height: 500px;
+}
+.link{
+
+    text-decoration: none;
+    border: palevioletred;
+    border-radius: 5px;
+    background-color: rgb(212, 113, 14);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(salmon,tomato);
+}
+p{
+    color: dimgray;
+}
+.biography{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.top-banner{
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#work{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    
+}
+.new-work{
+    padding-left: 250px;
+
+    height: 5%;
+    width: 10%;
+
+    
+}
+.latest-work{
+
+background-image: url(images/latest-work-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+
+.client{
+text-align: center;
+height: 100%;
+width: 100%;
+
+}
+.ceo{
+
+    color: dimgray;
+}
+.leave{
+text-align: center;
+height: 100%;
+width: 100%;
+background-color: rgb(238, 13, 51);
+color: white;
+
+}
+.footer-img{
+
+
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+}
